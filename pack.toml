@@ -1,0 +1,13 @@
+name = "Create: Murder and Machines"
+author = "QPCrummer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b8b0f45c761e15ca7d5810e9e1bc42ef6855949156bbf05cbd80bbf4e8134a54"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"
