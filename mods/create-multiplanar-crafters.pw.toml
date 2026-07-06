@@ -1,0 +1,13 @@
+name = "Create: Multiplanar Crafters"
+filename = "create_multiplanar_crafters-1.21.1_0.3.43.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYhx5zXn/versions/PMRvmluP/create_multiplanar_crafters-1.21.1_0.3.43.jar"
+hash-format = "sha512"
+hash = "d2bca0b64ff3156f3eac42e4fac6ca9d6567f42f26de427304d68e5ad29c7d8965d4184c6039788aedbe6dda99be11c0cc58398e492e50615a1e392e471f6081"
+
+[update]
+[update.modrinth]
+mod-id = "ZYhx5zXn"
+version = "PMRvmluP"

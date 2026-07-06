@@ -1,0 +1,13 @@
+name = "Create: Modern Tech"
+filename = "createmoderntech-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/maiVPGYD/versions/rFKJXawn/createmoderntech-1.0.6.jar"
+hash-format = "sha512"
+hash = "4ae0e4615204629a730a6e5f544ed45b93edd3fe116b92092384069bbd9a40a44c5bb06b7ec83e5b2bdfc12cf1438ff0a17e0af21b02b2f8d4b4089b979291d8"
+
+[update]
+[update.modrinth]
+mod-id = "maiVPGYD"
+version = "rFKJXawn"

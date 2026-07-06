@@ -1,0 +1,13 @@
+name = "Applied Schematics"
+filename = "appliedschematics-R0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nOkPQf0d/versions/BY0jwqoE/appliedschematics-R0.11.jar"
+hash-format = "sha512"
+hash = "1ceb1fe72e728057a0c3e68d6fdc5e4475dcd357442184886c8706bcd2cdbafdf34ced57062e9a10146b721f1f5c249f12e538d38f0effbe447113ff0ad1c894"
+
+[update]
+[update.modrinth]
+mod-id = "nOkPQf0d"
+version = "BY0jwqoE"

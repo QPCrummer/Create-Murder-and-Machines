@@ -1,0 +1,15 @@
+name = "Claiming9To5"
+filename = "claiming9to5-1.0.0-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Tater-Certified/Claiming9To5/releases/download/1.0.0-alpha.1/claiming9to5-1.0.0-alpha.1.jar"
+hash-format = "sha256"
+hash = "fe4dd9e6bf4d05db26b8ed4f608b6b1071bee159440bc71651b82fe2a54ea3c5"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Tater-Certified/Claiming9To5"
+tag = "1.0.0-alpha.1"

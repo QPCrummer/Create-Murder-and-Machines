@@ -1,0 +1,13 @@
+name = "Create: Bright Ponders"
+filename = "create_bright_ponders-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x7XVreqA/versions/BLgLVP0U/create_bright_ponders-1.0.jar"
+hash-format = "sha512"
+hash = "73cf4b7664103007ff6d3006715a44412f64436f87183e3873aa7836bbd6593a8bd9d34bc5ac5a886cbcab14d9221ed051c6ac9f429273a824fe235e080b5517"
+
+[update]
+[update.modrinth]
+mod-id = "x7XVreqA"
+version = "BLgLVP0U"

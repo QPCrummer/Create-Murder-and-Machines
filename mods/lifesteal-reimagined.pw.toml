@@ -1,0 +1,13 @@
+name = "Lifesteal Reimagined"
+filename = "lifesteal-1.0.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAtZdDN4/versions/LzWNg56r/lifesteal-1.0.0-beta.1.jar"
+hash-format = "sha512"
+hash = "c1e4f26e44c8cdc42a2a30abb2f132452b9485e58fa41fdf9503c65e9569c2781822794d3eb12c29feb643d3be1569cff53e19cb419286d34576e37bfe12efc6"
+
+[update]
+[update.modrinth]
+mod-id = "iAtZdDN4"
+version = "LzWNg56r"

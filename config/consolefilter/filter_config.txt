@@ -1,0 +1,2 @@
+# Add the keywords you want to filter separated by commas
+Filters = [Exception loading blockstate definition:, Missing sound for event:, Unable to load model:, Missing textures in model]

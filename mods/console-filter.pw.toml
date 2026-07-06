@@ -1,0 +1,13 @@
+name = "Console Filter"
+filename = "ConsoleFilter-1.21.1-4.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zmORhYIR/versions/LDYyMfvV/ConsoleFilter-1.21.1-4.0.0-neoforge.jar"
+hash-format = "sha512"
+hash = "420166fa42c7781822fef2892897087774e485b47be7ed613e3f67981b3a9b6fb089c5bf0ad8f4317caab2d134edb68b768d42bbea1a335aca070e5ee96d10cd"
+
+[update]
+[update.modrinth]
+mod-id = "zmORhYIR"
+version = "LDYyMfvV"

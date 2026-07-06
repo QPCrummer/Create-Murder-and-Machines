@@ -1,0 +1,13 @@
+name = "Create: Data Centers"
+filename = "v-13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pdB0yy0r/versions/lEyKuvMx/v-13.jar"
+hash-format = "sha512"
+hash = "c7fb2bf0bfacc93984821049abd3cd7ffcd221e09de7ce8483a0a415bc45d4a56bac0a6454e01d2bed2a96d7aa41b11774a56436ad5cc52c83a5128b4c6adf9c"
+
+[update]
+[update.modrinth]
+mod-id = "pdB0yy0r"
+version = "lEyKuvMx"

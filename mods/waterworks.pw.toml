@@ -1,0 +1,13 @@
+name = "Waterworks"
+filename = "waterworks-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jUEBjdTl/versions/BTLSqLPZ/waterworks-1.1.1.jar"
+hash-format = "sha512"
+hash = "aecf2c21b4f4b1168b7beecbb86900c995df28a027dfb1dbe0de18647819b339b60a40faf54d72faef674384e80658959d845b6d124da6a0a3127d140605336d"
+
+[update]
+[update.modrinth]
+mod-id = "jUEBjdTl"
+version = "BTLSqLPZ"
