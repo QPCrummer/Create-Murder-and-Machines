@@ -1,0 +1,13 @@
+name = "Collision Fix"
+filename = "CollisionFix-2.0.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CBtq0jWL/versions/2HtRCTNb/CollisionFix-2.0.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "a2714c39f46195c3cbe1a68ec46a77c1c1e8aa0deb9523d240632f1150768df0ddac0254cd3282cce56793fd04854461f013de24158aa060e07013a249b16ebc"
+
+[update]
+[update.modrinth]
+mod-id = "CBtq0jWL"
+version = "2HtRCTNb"

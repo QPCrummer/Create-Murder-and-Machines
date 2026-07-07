@@ -172,6 +172,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "c908d1e35ee87aa936f4cae394556ecbaa9bbbcb768c9cafc0dd1f82ae6ac329"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collision-fix.pw.toml"
+hash = "c77ccec1ee7d2c69f5d9fdf29df996a5fc91ba6e7d63c33f2979c20915121eb2"
 metafile = true
 
 [[files]]
@@ -857,8 +867,18 @@ hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/fism.pw.toml"
+hash = "41bd7d4e62b17ea3d682cd1646d75a672d0a7a9af12d8e36287b93448d548c7a"
 metafile = true
 
 [[files]]
@@ -922,6 +942,16 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "261885cca2c4fad2e0c53fdbc6eecb29982afccab576d5ddedfa1a7827bfc20e"
+metafile = true
+
+[[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "0fa1debfc02efc386dafd24d8c5e53f80751c91755beb894efaf606a0d1eb918"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
@@ -977,11 +1007,6 @@ hash = "bb99bb8be6f53291663391e321db9e6eb1aea875ecd1e846a5c00a2171517ea0"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
 metafile = true
@@ -997,8 +1022,18 @@ hash = "4eaef45625336f16e9461e00e9e4f4ed789bcd25b4ca8e011d68564ddb7c8c3a"
 metafile = true
 
 [[files]]
+file = "mods/mossylib.pw.toml"
+hash = "a06ce5d402c5e5eab06c7b70daceecb02007741fe9b8eef5231799cd24261eeb"
+metafile = true
+
+[[files]]
 file = "mods/movable-tracks.pw.toml"
 hash = "9bd78d5332debff02d8b141f9a2050c29a60e236b5a1917fdc3acb27c0bf7ce7"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
@@ -1024,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/oreganized.pw.toml"
 hash = "18f2e846ed69232e9b86ee3c495f590afeb7bc79c58d83209ac36e7a628d1f2c"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
@@ -1114,6 +1154,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
