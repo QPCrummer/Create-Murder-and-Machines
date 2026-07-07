@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/cgs.pw.toml"
-hash = "d26860c6578843bcc0db50b0c3b18688bd409e4f36cd8f14615711318e1f6020"
+hash = "d81ed204d2257474fdf0381893579f9562c0b1e9bb1385d5aa9265698a99e278"
 metafile = true
 
 [[files]]
@@ -783,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "937a5af04455f2afb7bac9184749d36b0e340ab5c4e70fc21ae8ec74de043c08"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
 
 [[files]]
@@ -938,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-diesel-generators.pw.toml"
-hash = "05042bcf5887d289d002c33f78816b4623b7df4bdf10dfa9419fafc7574c0f5a"
+hash = "1fd733dd7896ca289e0678fa61ab6165ab45f459a5851c1a2d9cc0567f28ebcf"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntgl.pw.toml"
-hash = "efe99f2623b4134aa754eb7b72e50ebbb7d295b02b58c79c0aa1c1f69a8c222a"
+hash = "c39655f8b686f5d1c35e18296c476238b6802cec16b9e2c3e3de4b89b3eb50fc"
 metafile = true
 
 [[files]]
@@ -1138,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
@@ -1153,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7d5fda4e1ae6613fa5a50849f7b4a99d3afa8dae8890ce4d7e74d6bb0a4a699f"
+hash = "28c2856e90c94fa0883ca1b6532925cc735bd23fb46a78dbda89d77f61d1615e"
 metafile = true
 
 [[files]]
@@ -1213,7 +1213,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "000f11dff1ecc83fe66c6a998cf94e583cdce2ea3cc7ece7f66d7fc91cad7936"
+hash = "8144ea02c64bf2f3cb2aa163b39e0ec66ee3cd739c5c27750d48aacf01ad3ecf"
 metafile = true
 
 [[files]]

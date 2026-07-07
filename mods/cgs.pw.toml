@@ -1,13 +1,13 @@
 name = "Create: Gunsmithing"
-filename = "create-gunsmithing-1.21.1-1.4.6.jar"
+filename = "create-gunsmithing-1.21.1-1.4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7KCNsGPM/versions/qyE72E0h/create-gunsmithing-1.21.1-1.4.6.jar"
+url = "https://cdn.modrinth.com/data/7KCNsGPM/versions/iOBlKaPQ/create-gunsmithing-1.21.1-1.4.7.jar"
 hash-format = "sha512"
-hash = "9ae6546f6f1b8fff9206787f080c7a16edfe1191303b8b216ccbf52954b287740b6101d88107650ea4d93e5fe89ff3dbd878a0c99a6ccec388db508883d30202"
+hash = "435210f35bc8cce1cfe67833e5bd6927f591369adf8fc8a6143b0ba627931773a38fa6471ba04abaa412663b3456f12bb1faf0867317e8b060f27ec602e68cad"
 
 [update]
 [update.modrinth]
 mod-id = "7KCNsGPM"
-version = "qyE72E0h"
+version = "iOBlKaPQ"

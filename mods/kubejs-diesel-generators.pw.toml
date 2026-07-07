@@ -1,13 +1,13 @@
 name = "KubeJS Diesel Generators"
-filename = "dg_js-1.21.1-1.2.0.jar"
+filename = "dg_js-1.21.1-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/10UMLVgM/versions/dtGVSlrl/dg_js-1.21.1-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/10UMLVgM/versions/RauWqmIa/dg_js-1.21.1-1.2.2.jar"
 hash-format = "sha512"
-hash = "c5fd2986844b68e12ba89393010dfe54fc39e506100027df1b0da113a4ca4a232e944f3339401db007f2dc302e14d0f68db49a720904fe9f953384ae9721d68b"
+hash = "422928f1e1955ccd97e0f43023a8752bbbdf31abda635a03dc93644971ddf7afb064812d1e8a7ef6cfd789c15c5e06bba1e3e54fb72864af35db8076bce7b3fe"
 
 [update]
 [update.modrinth]
 mod-id = "10UMLVgM"
-version = "dtGVSlrl"
+version = "RauWqmIa"
