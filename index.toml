@@ -302,11 +302,6 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
-file = "mods/claiming9to5.pw.toml"
-hash = "2195ae36ee169bfd4eeb30731a7b8923724d3f9fb536232f53550545a32888d1"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -1413,4 +1408,4 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "ee8183e0a1c8938894df8bba0820a3acd500ccc252dccb27166480b4a5f35c2e"
+hash = "12e4fdabbeae364fe16a50d49dbf0dc48455a0c7d7f89a89a17a204ca9f5ebaf"
