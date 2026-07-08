@@ -1,12 +1,12 @@
 name = "Create: Murder and Machines"
 author = "QPCrummer"
-version = "1.0.0"
+version = "1.0.0-alpha.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c7d58d4ed757bf4c7e03a333a3f776d96a5ff6400faa960a585721206bc6bf55"
+hash = "820390bff2391f451d9cdfb76dd8bb8b0e8b3ea0f62bd9b1eed5a6d8b3a67106"
 
 [versions]
 minecraft = "1.21.1"

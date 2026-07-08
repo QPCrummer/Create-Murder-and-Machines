@@ -1,6 +1,58 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Icon.png"
+hash = "c46e010e999f575ac822ac36178b3f7fb06483f79cc2385b22743803509c0016"
+
+[[files]]
+file = "config/EasyMSC/bans.json"
+hash = "c822ae4ff1a043cd35eb521117dc5b2a8167f203b3a80e2edf6640846f6beeea"
+
+[[files]]
+file = "config/EasyMSC/biome_bans.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/biome_spawn_assignments.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/biome_spawns.json"
+hash = "b8dff7a6c9bbe78d5f3c256943fc3b4b10020eb8fd0afe892f0d957d1990fce2"
+
+[[files]]
+file = "config/EasyMSC/dimension_bans.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/disabled_mob_spawn_types.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/natural_spawn_rates.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/spawn_caps.json"
+hash = "2ecdf9122fa59ba4132c379b8568d8750c8e28a2f441d59b66b2cbbebe8d98f1"
+
+[[files]]
+file = "config/EasyMSC/spawn_rates.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/spawn_rule_assignments.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/EasyMSC/spawn_rules.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/EasyMSC/world_gen_spawn_rates.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "9abcd2d5af062fc39076933c8be922a5a7e02f275c59363f25d3207047b8f85a"
 
@@ -37,6 +89,10 @@ file = "config/ferritecore-mixin.toml"
 hash = "60e29bb16df280bbd8f7df61b49186768ee79134890be6a85ace6bfb903cc934"
 
 [[files]]
+file = "config/fml.toml"
+hash = "514ca389c59f890c74e1a83f82f74a250f106f1a7bab77045a158366badd473a"
+
+[[files]]
 file = "config/ftbchunks-client.snbt"
 hash = "6810781e519050a0197a9583b299e4c9397074e6a85924e9bec037dd7aee9de0"
 
@@ -55,6 +111,10 @@ hash = "0cb54f6b7568ca7fff6b6a1320eb4ef455941c83a932f5dd8c6ad1c5741e0458"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "a7e82a1cced58192823d118812a39b2601746dd2bc861eea4a77d11adec9d4d8"
+
+[[files]]
+file = "config/kerria.json"
+hash = "71135c8d6882fe45dd9f91f9fdf4e6a389cd3be23e7c3d9c493a5ee8c69671cd"
 
 [[files]]
 file = "config/krypton_fnp.yaml"
@@ -243,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/claiming9to5.pw.toml"
-hash = "30a8451952f66802291d73c10a0da110f523c62b6406f6a7c83bc5ca8deced24"
+hash = "2195ae36ee169bfd4eeb30731a7b8923724d3f9fb536232f53550545a32888d1"
 metafile = true
 
 [[files]]
@@ -384,11 +444,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons-equally-opposite.pw.toml"
 hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons-ftb-claims-protection.pw.toml"
-hash = "7db1449bc0786a27783ff2bde737e1e19d3a82b9619e5c3f8880f95916ff7d65"
 metafile = true
 
 [[files]]
@@ -887,11 +942,6 @@ hash = "3a70d7259d89a9b02a0180cf3a8c9efedf75f32bf80012f6c41d40ab276c6913"
 metafile = true
 
 [[files]]
-file = "mods/ftbchunksaerospace.pw.toml"
-hash = "2001df493febbb65b823cc435da6707d2883592024283a546a3b3642109a7dd4"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "198c99aecc2dfae1a25ca18b2563aef02e6226b844867a01c56db7073a494797"
 metafile = true
@@ -1248,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/unruled-api.pw.toml"
-hash = "f931369bdea8bde59b48cea2db6d90b21f399992fe1ddad772c4b754e04e48fe"
+hash = "89504f10a81546840f281919bfaad1f005badfb6f283b8c2dd18120f106f8791"
 metafile = true
 
 [[files]]
@@ -1363,4 +1413,4 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "cba667b2e5a88c28429b61c3f6274f43827fb4bdcbe95e3e35a7034113837724"
+hash = "ee8183e0a1c8938894df8bba0820a3acd500ccc252dccb27166480b4a5f35c2e"
