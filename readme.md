@@ -16,3 +16,4 @@ For the server, the same JVM arguments with Java 25 is recommended, however the 
 If installing FTB, I recommend also installing these mods: 
 - https://modrinth.com/mod/ftbchunksaerospace
 - https://modrinth.com/mod/create-big-cannons-ftb-claims-protection
+- https://github.com/Tater-Certified/Claiming9To5
