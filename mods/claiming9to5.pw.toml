@@ -1,6 +1,6 @@
 name = "Claiming9To5"
 filename = "claiming9to5-1.0.0-alpha.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://github.com/Tater-Certified/Claiming9To5/releases/download/1.0.0-alpha.1/claiming9to5-1.0.0-alpha.1.jar"

@@ -1,6 +1,6 @@
 name = "Unruled API"
 filename = "unruled_api-neo+1.21-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pZ0PWFaa/versions/6TbnUFbd/unruled_api-neo%2B1.21-1.4.jar"
