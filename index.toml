@@ -5,6 +5,10 @@ file = "Icon.png"
 hash = "c46e010e999f575ac822ac36178b3f7fb06483f79cc2385b22743803509c0016"
 
 [[files]]
+file = "LICENSE.txt"
+hash = "78ac1ab9a63a7608a461746cd71b218bee6335d6189a42f54c8bc6db1ff4acd4"
+
+[[files]]
 file = "config/EasyMSC/bans.json"
 hash = "c822ae4ff1a043cd35eb521117dc5b2a8167f203b3a80e2edf6640846f6beeea"
 
@@ -1342,11 +1346,6 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "9bd04b84287a7ceaae9333f87bb4ca3741506ac7bc2851174f5bc1dd4e3dcc70"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
 hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
 metafile = true
@@ -1408,4 +1407,4 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "12e4fdabbeae364fe16a50d49dbf0dc48455a0c7d7f89a89a17a204ca9f5ebaf"
+hash = "6438daee600c606c35e884804c82c3a50773e4a7fc4fcf9846ad7434ff52ed3e"
