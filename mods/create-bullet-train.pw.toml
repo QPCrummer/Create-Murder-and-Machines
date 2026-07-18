@@ -1,0 +1,13 @@
+name = "Create: Bullet Train"
+filename = "createbullettrain-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Og8azZF7/versions/h1VRxoaP/createbullettrain-1.0.0.jar"
+hash-format = "sha512"
+hash = "0206b3e2008a19bcb9ae7980a41de6a516ecd5345a0a25f9731373e72b8eb20e46f9f969b4c5c4a9b7b97d7bbd55298aa5b92f2f0bade7ec69140dcca3704981"
+
+[update]
+[update.modrinth]
+mod-id = "Og8azZF7"
+version = "h1VRxoaP"

@@ -186,6 +186,11 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "e8b4080963d59ce2e54a3c9771f0bf7f00c1fcd7d04b963f705b485eea47de03"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "2cfb28351a5a5d4af8b38130cca9f935c26c22524e0b6823196f0eb39ec55ead"
+metafile = true
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "dc4fba2ed89550843d0ce2a6cd1b13986ff2bf596b9f5b828ef55ebb538bab10"
 metafile = true
 
 [[files]]
@@ -331,6 +341,11 @@ hash = "22b82603cfb40c19e0303917078a11fa71adf13d4097fc7d15e14fbef8db2760"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "b354afa2fe5c54835b33f07c9210a44f371ec5afd82d65a87e66b50b059cdf43"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -401,6 +416,11 @@ hash = "aabc3d94ea527039798baa69d7c381cb679afa63f2d842c5357bb8d186792e5b"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-vapor-trails.pw.toml"
+hash = "97945f33676f69ddd348372652c538b8c6fbd1293a702a6ab55e5c896d53b293"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
@@ -456,6 +476,16 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "9a4698c7a6d450e860bea82463dbea10918e4990ea16a54a11921c6c9e9ad1d6"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-tracks.pw.toml"
+hash = "9f32c91047792e2da7d83cd7c9ac6362e0563d2421df279f7fb639c9d770931c"
+metafile = true
+
+[[files]]
 file = "mods/create-bitterballen.pw.toml"
 hash = "818c72ad08596c9312ad2090aad62c7c1733053ec4588079c1d5f9cd2fa03421"
 metafile = true
@@ -478,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
 hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
+metafile = true
+
+[[files]]
+file = "mods/create-bullet-train.pw.toml"
+hash = "ea5f444b40a92368d1a8d7c7698cf2dea10042d03602095a2e074c4f05efd031"
 metafile = true
 
 [[files]]
@@ -646,6 +681,16 @@ hash = "24bc6a9f5d62e8c6fc92ca5a60d49ccbd7ee62e0649961987501458b17e60ba0"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-chicken.pw.toml"
+hash = "bc5c6f8ea0e3a739da6977506ebeece414c737066660134d3c2469be94677618"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-cow.pw.toml"
+hash = "15bdac82a6be433c7fa62b759c4586e0ac3e27d2cf9ea3134a94f5eff9fa4b51"
+metafile = true
+
+[[files]]
 file = "mods/create-mechanical-spawner.pw.toml"
 hash = "8d9f6438c0e03857f55b3b6fe2383fb8393c01c8d41012cf5032fdedd184575a"
 metafile = true
@@ -663,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/create-more-linked-remote.pw.toml"
 hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
+metafile = true
+
+[[files]]
+file = "mods/create-mtg.pw.toml"
+hash = "2aa6e14f578b7fbd83ede637eaf2410b3c12369fbd0ca39fe7d0c64f640959ab"
 metafile = true
 
 [[files]]
@@ -698,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/create-ranged.pw.toml"
 hash = "d60a1f5dab3658ac74a957e02b60fac95db9a6f8ad79a214851b46abf05156e2"
+metafile = true
+
+[[files]]
+file = "mods/create-ratatouille.pw.toml"
+hash = "d1160b7fd4395d2b1140c78791a6d974a9c804d17078d643cbb8f4d267505066"
 metafile = true
 
 [[files]]
@@ -1171,6 +1226,11 @@ hash = "30a253257b9953a141b11a002a8ffc6ea75841090e58ecd382b1cdd9114e07f7"
 metafile = true
 
 [[files]]
+file = "mods/sable-explosions-fix.pw.toml"
+hash = "5d9c1da07cfac71f3fdc523b98a1b7324e19ba45eea40507d3f1d808e4767e4b"
+metafile = true
+
+[[files]]
 file = "mods/sable-far-and-wide.pw.toml"
 hash = "d5f8a91c0f5f56dac67f72edb5cdf508d6b004c12c6b302032ab676c703926de"
 metafile = true
@@ -1178,6 +1238,11 @@ metafile = true
 [[files]]
 file = "mods/sable-schematic-tool.pw.toml"
 hash = "1689ab92b06bdbb37a960d9c820d13b5ec91fc1108ec9e40c19be1090c121adc"
+metafile = true
+
+[[files]]
+file = "mods/sable-sure-footing.pw.toml"
+hash = "27baa699ff025d9c84da6019dd2899c2e8f429395b16b0e109d11f535add22b7"
 metafile = true
 
 [[files]]
@@ -1251,6 +1316,11 @@ hash = "5fb29c39aba318df851e6f9feb3127e7e96f6f960d3fe04018f8124209c26e41"
 metafile = true
 
 [[files]]
+file = "mods/spotlights-or-something.pw.toml"
+hash = "3cd14ed2c90f9b648f532eeb27b818e0fd99eb5f72b9771a289803b3191cc0a0"
+metafile = true
+
+[[files]]
 file = "mods/ssrd.pw.toml"
 hash = "37d2c0cdeba3e4d81f1d4e9f205015d59427b7abd9d22862ee3625e00ae561f9"
 metafile = true
@@ -1258,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "ea9799e9f1642152ce03ee354cbe1cc007dba10e94ad5ff1312afb6b0d52ce0e"
 metafile = true
 
 [[files]]

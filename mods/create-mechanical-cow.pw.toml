@@ -1,0 +1,13 @@
+name = "Create Mechanical Cow"
+filename = "mechanical_cow-1.21.1-1.2.2-6.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zRNN7mYy/versions/Y7TQA9Sd/mechanical_cow-1.21.1-1.2.2-6.0.10.jar"
+hash-format = "sha512"
+hash = "3b111054cf0732db90eff679edf807c8b542a372df3bfb69f04fa7e1f1eb3d24f9febb8f42fbbb6a4bba7dc1dcd4b0ef397744fdb88be6e52e27aaac17549102"
+
+[update]
+[update.modrinth]
+mod-id = "zRNN7mYy"
+version = "Y7TQA9Sd"
