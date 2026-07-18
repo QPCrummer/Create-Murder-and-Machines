@@ -1,13 +1,13 @@
 name = "Create: Vertical Chain Conveyors"
-filename = "verticalchainconveyors-1.21.1-1.0.0.jar"
+filename = "verticalchainconveyors-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/joibNLTJ/versions/6g6v4f08/verticalchainconveyors-1.21.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/joibNLTJ/versions/2EjoI9Ba/verticalchainconveyors-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "472674f4f5c1feb418481e8aa77cc0130b3d6ef53c808c451c231262297e8494f96c9375decfa66545cb9a4d3726f6ea7c6eca4e4b6c2953d0dcfa6d6dc7088a"
+hash = "1b0341a498241e76313986cc2ef8d4e73ccf2fe5a45e3f391a47f4a8cb43b534aad473de0576d6989bd4a56f02c3cb469e4422f442a0e990b6a386621c58c56a"
 
 [update]
 [update.modrinth]
 mod-id = "joibNLTJ"
-version = "6g6v4f08"
+version = "2EjoI9Ba"

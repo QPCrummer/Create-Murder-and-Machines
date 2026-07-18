@@ -1,13 +1,13 @@
 name = "Create Numismatics: Villager Currency"
-filename = "villagercurrency-1.1.1-neoforge-1.21.1.jar"
+filename = "villagercurrency-1.2.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KrXYrtG9/versions/aaKlTws1/villagercurrency-1.1.1-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/KrXYrtG9/versions/AcNxwhOd/villagercurrency-1.2.0-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "e838ce6854415e4c5dadc32ae68af5518557071b93985dc747979722a200e73a02090b4e657150d08e453d19fd6dae636926b3a9fd8b3e3174e2eddd85de2a4a"
+hash = "e20f57aee6ba20f0143b86600cf7fd83837e730ffec21c5eaf865d30bb6f5c0c053c3bde6a8ea35b427352869e37a4306cc4acdfbb5f46ac6fa718721409c34b"
 
 [update]
 [update.modrinth]
 mod-id = "KrXYrtG9"
-version = "aaKlTws1"
+version = "AcNxwhOd"
